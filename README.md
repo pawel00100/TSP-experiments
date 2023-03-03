@@ -39,17 +39,17 @@ when it is supplied with result of simple construction heuristic, such as neares
 
 ### Swapping two neighbors on a path
 
-![](readme_media\graph1a.png)
+<img src="readme_media\graph1a.png"/>
 
-![](readme_media\graph1b.png)
+<img src="readme_media\graph1b.png"/>
 
 It has low convergence rate.
 
 ### Reversing path fragments of any length
 
-![](readme_media\graph2a.png)
+<img src="readme_media\graph2a.png"/>
 
-![](readme_media\graph2b.png)
+<img src="readme_media\graph2b.png"/>
 
 This method reaches stable state more quickly and with better results.
 
